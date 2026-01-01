@@ -1,3 +1,2 @@
 # SiamesNet
-Example of SiamesNet
-open the notebook for more explination 
+Example of SiamesNet, open the notebook for more explination 
